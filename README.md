@@ -2,7 +2,7 @@
 This is a simple web app that displays random pictures of dogs using the [Dog API](https://dog.ceo/dog-api/).
 
 ## How to run the project
-1. Clones this repository to your local machine.
+1. Clone this repository to your local machine.
 2. Navigate to the project folder and run the following commands to intall the dependencies:
 - npm create vite@latest
 - npm i axios
